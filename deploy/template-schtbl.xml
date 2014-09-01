@@ -1,0 +1,4 @@
+<!-- Slots are based on 5 slots per second and 10 entries per slot -->
+<sch-tbl>
+  <slot id="2" entry="0" enable="true" frequency="5" offset="0" msg_id="10" />
+</sch-tbl>
